@@ -1,0 +1,2 @@
+namespace :details do
+end

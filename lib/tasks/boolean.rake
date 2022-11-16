@@ -1,0 +1,2 @@
+namespace :boolean do
+end
