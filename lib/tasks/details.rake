@@ -1,2 +1,0 @@
-namespace :details do
-end

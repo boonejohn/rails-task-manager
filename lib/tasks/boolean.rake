@@ -1,2 +1,0 @@
-namespace :boolean do
-end
